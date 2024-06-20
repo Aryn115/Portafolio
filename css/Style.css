@@ -1,9 +1,9 @@
 h1{
     color:blueviolet;
     font-family: "Playwrite PL", cursive;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
 }
 
  h2{
